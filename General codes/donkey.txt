@@ -1,0 +1,15 @@
+it is a useful animal. it has been used a
+s a working animal for at least 5000 years. 
+it is a very unique and amazing animal. a male donk
+ey is called a 'jack' while a female ###### is called a 'jenny' or 'jennet' and
+a young ###### is called a 'foal'.
+the ###### has many different qualities. it is slow-m
+over. it can manage with a
+oor kind of forage. the ###### has been used as a working
+animal for at least 5000 years. a ###### may be ridden or used 
+for threshing, raising water, milling and other work. 
+######
+
+
+
+l =  ["yeda","######","pagal","animal"]
