@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bd80cd8-dafb-4051-a867-36e74221dc96" name="Default Changelist" comment="counting word from whole str ele">
-      <change afterPath="$PROJECT_DIR$/Class Assignment-3/making dict of chr and their count.py" afterDir="false" />
+    <list default="true" id="7bd80cd8-dafb-4051-a867-36e74221dc96" name="Default Changelist" comment="creating dict having word of str and count of word in str">
+      <change afterPath="$PROJECT_DIR$/General codes/string capitalize.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +31,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
-  <component name="RunManager" selected="Python.making dict of chr and their count">
+  <component name="RunManager" selected="Python.string capitalize">
     <configuration name="changing last chr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,19 +118,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mcq d16082021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string capitalize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\LENOVO\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classwork Codes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General codes" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classwork Codes/mcq d16082021.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General codes/string capitalize.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.string capitalize" />
         <item itemvalue="Python.making dict of chr and their count" />
         <item itemvalue="Python.changing last chr" />
         <item itemvalue="Python.counting each word in str" />
         <item itemvalue="Python.counting word from given str" />
-        <item itemvalue="Python.mcq d16082021" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629126753900</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="creating dict having word of str and count of word in str">
+      <created>1629163966253</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629163966253</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +205,7 @@
     <MESSAGE value="normal mcq" />
     <MESSAGE value="counting word from str" />
     <MESSAGE value="counting word from whole str ele" />
-    <option name="LAST_COMMIT_MESSAGE" value="counting word from whole str ele" />
+    <MESSAGE value="creating dict having word of str and count of word in str" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating dict having word of str and count of word in str" />
   </component>
 </project>
