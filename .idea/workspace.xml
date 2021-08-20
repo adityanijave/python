@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bd80cd8-dafb-4051-a867-36e74221dc96" name="Default Changelist" comment="multiplies all element inside the list" />
+    <list default="true" id="7bd80cd8-dafb-4051-a867-36e74221dc96" name="Default Changelist" comment="finding max number among list" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629463602760</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="finding max number among list">
+      <created>1629463912518</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1629463912518</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,6 +265,7 @@
     <MESSAGE value="guess the num" />
     <MESSAGE value="adding all element inside the list" />
     <MESSAGE value="multiplies all element inside the list" />
-    <option name="LAST_COMMIT_MESSAGE" value="multiplies all element inside the list" />
+    <MESSAGE value="finding max number among list" />
+    <option name="LAST_COMMIT_MESSAGE" value="finding max number among list" />
   </component>
 </project>
