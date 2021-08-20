@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bd80cd8-dafb-4051-a867-36e74221dc96" name="Default Changelist" comment="finding min number among list">
-      <change afterPath="$PROJECT_DIR$/Classwork Codes/getting count of ele having same 1st and last chr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7bd80cd8-dafb-4051-a867-36e74221dc96" name="Default Changelist" comment="counting element having their first and last chr is same" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -251,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629464829812</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="counting element having their first and last chr is same">
+      <created>1629465826575</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1629465826575</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,6 +281,7 @@
     <MESSAGE value="multiplies all element inside the list" />
     <MESSAGE value="finding max number among list" />
     <MESSAGE value="finding min number among list" />
-    <option name="LAST_COMMIT_MESSAGE" value="finding min number among list" />
+    <MESSAGE value="counting element having their first and last chr is same" />
+    <option name="LAST_COMMIT_MESSAGE" value="counting element having their first and last chr is same" />
   </component>
 </project>
