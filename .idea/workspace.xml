@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bd80cd8-dafb-4051-a867-36e74221dc96" name="Default Changelist" comment="getting unique elements from list">
-      <change afterPath="$PROJECT_DIR$/SoloLearn Codes/no numberals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoloLearn Codes/pig latin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7bd80cd8-dafb-4051-a867-36e74221dc96" name="Default Changelist" comment="flattering a list" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -280,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629478089448</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="flattering a list">
+      <created>1629546793785</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1629546793785</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,7 +312,8 @@
     <MESSAGE value="counting element having their first and last chr is same" />
     <MESSAGE value="getting output as required" />
     <MESSAGE value="getting unique elements from list" />
-    <option name="LAST_COMMIT_MESSAGE" value="getting unique elements from list" />
+    <MESSAGE value="flattering a list" />
+    <option name="LAST_COMMIT_MESSAGE" value="flattering a list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
