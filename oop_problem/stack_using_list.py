@@ -11,11 +11,13 @@ class stack:
     def show(self):
         print(self.arr,self.top)
 
+
 # class la chalu kel
 trial = stack()
 
 # element push kele
 trial.push(10)
+
 # push kelyavr element check kele
 trial.show()
 trial.push(20)
@@ -27,6 +29,7 @@ print()
 
 # element pop kele
 trial.pop(30)
+
 # pop kelyavr element check kele
 trial.show()
 trial.pop(20)
