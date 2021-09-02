@@ -59,6 +59,3 @@ student_3 = Sport()
 student_3.studentGrade()
 student_3.Show_studentGrade()
 print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-
-
-
