@@ -37,18 +37,5 @@ trial.show()
 trial.pop(10)
 trial.show()
 
-# while True :
-#     x =  input(f"add,pop,show,band: \n" )
-#     if x == 'add':
-#         trial.push(int(input("enter number to push : ")))
-#     if x == 'pop':
-#         trial.pop(-1)
-#     if x == 'show':
-#         trial.show()
-#     if x == 'band':
-#          break
-#     # if x != "add" or x != "pop" or x != "show" or x != "band" :
-#     #     print("kindly enter valid entry!")
-
 
 
