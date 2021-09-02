@@ -16,13 +16,20 @@ class bulb:
 
 
 # objectname = classname()
-bulb_1 = bulb
-bulb_1.turnOn(bulb_1)
+bulb_1 = bulb()
+
+bulb_1.turnOn()
 bulb_1.status_of_bulb()
-#
+bulb_1.turnOff()
+bulb_1.status_of_bulb()
+print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 
-
-
+bulb_2 = bulb()
+bulb_2.status_of_bulb()
+bulb_2.turnOn()
+bulb_2.status_of_bulb()
+bulb_2.turnOff()
+bulb_2.status_of_bulb()
 
 
 
