@@ -16,7 +16,7 @@ class operations:
 
 user_want = input("Enter sign to perform operations like +,-,* : ")
 
-# onjectname = classname()
+# object_name = class_name()
 operation = operations()
 
 if user_want == "+":
