@@ -1,12 +1,3 @@
-
-
-'''
-a<-----b------>c
-       |
-       |
-      \/
-       d
-'''
 class Student:
     def studentData(self):
         self.name = input("Enter Student Name : ")
