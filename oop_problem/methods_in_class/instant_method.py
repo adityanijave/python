@@ -12,6 +12,7 @@ class test:
     def show(self):
         print(f"{self.i}\n{self.j}\n{self.__class__.k}")
 
+
 print("++++++++++++++++++++++++")
 ob1 = test(10,20)
 ob1.sqr()

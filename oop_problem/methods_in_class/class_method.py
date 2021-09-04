@@ -3,6 +3,5 @@ class test:
     @classmethod
     def show(cls):
         print(cls.s)
-
 ss = test()
 ss.show()
