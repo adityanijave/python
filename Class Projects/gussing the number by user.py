@@ -13,4 +13,4 @@ while True:
             c+=1
     else:
         print('please enter valid entry!\n')
-print(f"Total try is {c}")
+print(f"Total try is {c}"

@@ -1,4 +1,4 @@
-l = ["harry","adi","soham","ruhi","shubha", "abc"]
+l = ["harry","adi","weds","ruhi","shubha", "abc"]
 print(type(l))
 print(l)
 
