@@ -6,14 +6,14 @@ mathematics =int (input(" enter the marks of mathematics : \n"))
 computer =int (input(" enter the marks of computer : \n"))
 percentage = (physics+ chemistry+ biology + mathematics + computer )/5
 if percentage >= 90 :
-    print("A")
+    print("class A")
 elif percentage >=80 : 
-    print("B")
+    print(" class B")
 elif  percentage >=70 : 
-    print("C")
+    print("class C")
 elif percentage >= 60 :
-    print("D")
+    print("class D")
 elif percentage >= 40 :
-    print("E")
+    print("class E")
 elif percentage <40 :
-    print("F")
+    print("class F")
