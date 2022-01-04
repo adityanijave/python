@@ -1,0 +1,15 @@
+# string = "banana".__iter__()
+# print(next(string))
+# print(next(string))
+# print(next(string))
+# print(next(string))
+# print(next(string))
+# print(next(string))
+
+string = "apple"
+myit = iter(string)
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
